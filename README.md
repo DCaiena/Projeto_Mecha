@@ -7,29 +7,20 @@ O projeto Mecha é um sistema desenvolvido para web e mobile que possui objetivo
 Para esse projeto resolvi optar pelo uso do Angular9 na parte web, já o mobile ficou o Flutter e no backend a junção de mongoDB, GraphQL e ApolloServer. Fique a vontade para escolher as suas.
 
 ## Requisitos Funcionais
-### Web
+### Web (Funcinários)
 <ul>
- <li>
-  Cadastrar Funcionários(Mecanico e Gerente). 
- <li/>
- <li>
-  Login 
- <li/>
- <li>
-  Mostrar Serviços agendados do dia 
- <li/>
- <li>
-  Enviar notificação de serviço agendado para cliente 
- <li/>
- <li>
-  Confirmar vinda do cliente 
- <li/>
- <li>
-  Adicionar serviços e pagamento. 
- <li/>
+ <li>Cadastrar Funcionários.<li/>
+ <li>Login.<li/>
+ <li>Mostrar Serviços agendados do dia.<li/>
+ <li>Enviar notificação de serviço agendado para cliente.<li/>
+ <li>Confirmar vinda do cliente.<li/>
+ <li>Adicionar serviços e pagamento.<li/>
  <ul/>
-### Mobile
- Agendar serviço 
- Mostrar agendamento 
- Cadastrar usuário 
- Login de usuário 
+ 
+### Mobile (CLientes)
+ <ul>
+ <li>Agendar serviço.<li/>
+ <li>Mostrar agendamentos.<li/>
+ <li>Cadastrar usuário.<li/>
+ <li>Login de usuário.<li/>
+ <ul/>
