@@ -11,16 +11,20 @@ Para esse projeto resolvi optar pelo uso do Angular9 na parte web, já o mobile 
 <ol>
  <li>Cadastrar Funcionários.</li>
  <li>Login.</li>
+ <li>Adicionar serviços.</li>
+ <li>Adicionar Mecânicos.</li>
+ <li>Agendar cliente</li>
  <li>Mostrar Serviços agendados do dia.</li>
+ <li>Mostrar Serviços agendados dos próximos dias.</li>
  <li>Enviar notificação de serviço agendado para cliente.</li>
  <li>Confirmar vinda do cliente.</li>
- <li>Adicionar serviços e pagamento.</li>
+ <li>Fazer pagamento.</li>
  </ol>
  
 ### Mobile (CLientes)
  <ol>
+ <li>Login de usuário.</li>
+ <li>Cadastrar usuário.</li>
  <li>Agendar serviço.</li>
  <li>Mostrar agendamentos.</li>
- <li>Cadastrar usuário.</li>
- <li>Login de usuário.</li>
  </ol>
