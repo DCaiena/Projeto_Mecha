@@ -13,7 +13,7 @@ Para esse projeto resolvi optar pelo uso do Angular9 na parte web, já o mobile 
  <li>Login.</li>
  <li>Mostrar Serviços agendados do dia.</li>
  <li>Enviar notificação de serviço agendado para cliente.</li>
- <li>Confirmar vinda do cliente.<li/>
+ <li>Confirmar vinda do cliente.</li>
  <li>Adicionar serviços e pagamento.</li>
  </ol>
  
