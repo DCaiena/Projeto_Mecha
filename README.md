@@ -4,4 +4,4 @@ O projeto Mecha é um sistema desenvolvido para web e mobile que possui objetivo
 <img src="assets/Logomecha.png" style="margin:10px; align-self:center"/>
 
 ## Tecnologias escolhidas
-Para esse projeto resolvi optar pelo uso do Angular9 na parte web, já o mobile ficou o Flutter e no backend a junção de mongoDb, GraphQl e ApolloServer. Fique a vontade para escolher as suas.
+Para esse projeto resolvi optar pelo uso do Angular9 na parte web, já o mobile ficou o Flutter e no backend a junção de mongoDB, GraphQL e ApolloServer. Fique a vontade para escolher as suas.
