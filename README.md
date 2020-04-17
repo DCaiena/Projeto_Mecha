@@ -8,19 +8,19 @@ Para esse projeto resolvi optar pelo uso do Angular9 na parte web, já o mobile 
 
 ## Requisitos Funcionais
 ### Web (Funcinários)
-<ul>
- <li>Cadastrar Funcionários.<li/>
- <li>Login.<li/>
- <li>Mostrar Serviços agendados do dia.<li/>
- <li>Enviar notificação de serviço agendado para cliente.<li/>
+<ol>
+ <li>Cadastrar Funcionários.</li>
+ <li>Login.</li>
+ <li>Mostrar Serviços agendados do dia.</li>
+ <li>Enviar notificação de serviço agendado para cliente.</li>
  <li>Confirmar vinda do cliente.<li/>
- <li>Adicionar serviços e pagamento.<li/>
- <ul/>
+ <li>Adicionar serviços e pagamento.</li>
+ </ol>
  
 ### Mobile (CLientes)
- <ul>
- <li>Agendar serviço.<li/>
- <li>Mostrar agendamentos.<li/>
- <li>Cadastrar usuário.<li/>
- <li>Login de usuário.<li/>
- <ul/>
+ <ol>
+ <li>Agendar serviço.</li>
+ <li>Mostrar agendamentos.</li>
+ <li>Cadastrar usuário.</li>
+ <li>Login de usuário.</li>
+ </ol>
