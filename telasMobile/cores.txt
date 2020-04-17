@@ -1,0 +1,8 @@
+#084960 	Fontes usadas
+#707070		Segoe UI -  Bold e Semibold
+#22B573
+#FF7B00
+#F7931E
+#F66767
+#F15A24
+#000000

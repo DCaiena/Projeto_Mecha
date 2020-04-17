@@ -1,0 +1,8 @@
+#F7F7F7				Fontes
+#F15A24				Segoe UI bold e semibold
+#22B573
+#707070
+#084960
+#FEECD7
+#FF9A57
+#084960
