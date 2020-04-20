@@ -27,4 +27,6 @@ Para esse projeto resolvi optar pelo uso do Angular9 na parte web, já o mobile 
  <li>Cadastrar usuário.</li>
  <li>Agendar serviço.</li>
  <li>Mostrar agendamentos.</li>
+ <li>Ser notificado</li>
+
  </ol>
